@@ -1,4 +1,4 @@
-# calculator.py
+# Just a simple calculator to run some tests
 
 class Calculator:
     def __init__(self):
